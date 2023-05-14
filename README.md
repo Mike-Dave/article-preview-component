@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- [My Solution]()
-- [Live Site URL]()
+- [My Solution](https://www.frontendmentor.io/solutions/html-css-js-lipVtusu_6)
+- [Live Site URL](https://mike-dave.github.io/article-preview-component/)
 
 ## My process
 
